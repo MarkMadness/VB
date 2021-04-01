@@ -1,0 +1,13 @@
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.vbprojAssemblyReference.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.vb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
