@@ -1,0 +1,11 @@
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\bin\Debug\ConsoleApp1_NET_Framework.exe.config
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\bin\Debug\ConsoleApp1_NET_Framework.exe
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\bin\Debug\ConsoleApp1_NET_Framework.pdb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\bin\Debug\ConsoleApp1_NET_Framework.xml
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\obj\Debug\ConsoleApp1_NET_Framework.vbprojAssemblyReference.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\obj\Debug\ConsoleApp1_NET_Framework.Resources.resources
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\obj\Debug\ConsoleApp1_NET_Framework.vbproj.GenerateResource.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\obj\Debug\ConsoleApp1_NET_Framework.vbproj.CoreCompileInputs.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\obj\Debug\ConsoleApp1_NET_Framework.exe
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\obj\Debug\ConsoleApp1_NET_Framework.xml
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\ConsoleApp1_NET_Framework\obj\Debug\ConsoleApp1_NET_Framework.pdb
