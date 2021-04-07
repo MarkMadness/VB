@@ -1,0 +1,17 @@
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\bin\Debug\WFPApp1.exe.config
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\bin\Debug\WFPApp1.exe
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\bin\Debug\WFPApp1.pdb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\bin\Debug\WFPApp1.xml
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\WPFApp1.vbprojAssemblyReference.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\MainWindow.g.vb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\Application.g.vb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\WFPApp1_MarkupCompile.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\WFPApp1_MarkupCompile.lref
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\MainWindow.baml
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\WFPApp1.g.resources
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\WFPApp1.Resources.resources
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\WPFApp1.vbproj.GenerateResource.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\WPFApp1.vbproj.CoreCompileInputs.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\WFPApp1.exe
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\WFPApp1.xml
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\VB\ConsoleApp1_NET_Framework\WFPApp1\obj\Debug\WFPApp1.pdb
